@@ -4,3 +4,4 @@
 
 	sns.jointplot(x=ｘ軸にほしいデータy=y軸にほしいデータ,kind=”kde”)
 kind=kdeは、ヒストグラムをカーネル密度推定で示す。
+ssasa
