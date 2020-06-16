@@ -1,5 +1,21 @@
 # iric_lab
 
+## 第３回　
+- 日時：2020年6月23日(火)　16:00から
+- 場所：zoomオンライン
+- 参加：井上×２、岩崎、高橋、旭
+- 内容：
+
+1. githubの使い方共有 井上
+
+2. Pythonのコード勉強会
+Pythonコードで何をやっているかを説明（1人30分くらい）
+
+→　取り組むテーマを決める
+
+
+---
+
 ## 第２回　
 - 日時：2020年6月16日(火)　15:00から
 - 場所：zoomオンライン
@@ -16,10 +32,10 @@ https://www.sourcetreeapp.com/
 - visual codeをインストール
 https://azure.microsoft.com/ja-jp/products/visual-studio-code/
 
+○宿題：
+各自Pythonコードをアップしておく
 
 
-
-2. 情報共有
 
 ---
 
