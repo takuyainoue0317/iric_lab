@@ -7,13 +7,13 @@
 - 内容：
 
 1. githubの使い方共有 井上
-・Gitをインストール
+- Gitをインストール
 https://gitforwindows.org/
 
-・Source Treeをインストール
+- Source Treeをインストール
 https://www.sourcetreeapp.com/
 
-・visual codeをインストール
+- visual codeをインストール
 https://azure.microsoft.com/ja-jp/products/visual-studio-code/
 
 
