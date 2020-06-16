@@ -1,4 +1,4 @@
-Welcome to demo's documentation!
+Git 講習会
 ================================
 
 .. toctree::
