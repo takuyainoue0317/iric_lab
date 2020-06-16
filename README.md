@@ -3,10 +3,22 @@
 ## 第２回　
 - 日時：2020年6月16日(火)　15:00から
 - 場所：zoomオンライン
-- 参加：
+- 参加：井上×２、岩崎、高橋、旭
 - 内容：
 
 1. githubの使い方共有 井上
+・Gitをインストール
+https://gitforwindows.org/
+
+・Source Treeをインストール
+https://www.sourcetreeapp.com/
+
+・visual codeをインストール
+https://azure.microsoft.com/ja-jp/products/visual-studio-code/
+
+
+
+
 2. 情報共有
 
 ---
