@@ -38,14 +38,16 @@ https://azure.microsoft.com/ja-jp/products/visual-studio-code/
 1. Extension で検索ウィンドウに以下を入力
 Japanese Language Pack for Visual Studio Code
 
-2.インストールボタンをクリックして"Japanese Language Pack for Visual Studio Code"をインストール
+2. インストールボタンをクリック
+"Japanese Language Pack for Visual Studio Code"をインストール
 
 3. Ctrl+Shif+pでコマンドウィンドウを起動
 
 4. "Configure Display Language"と入力し表示されたものをクリック
 "en"と"ja"が選択できるので、"ja"を選択
 
-5.Visual Studio Codeを再起動
+5. Visual Studio Codeを再起動
+<br>
 以上
 
 ---
