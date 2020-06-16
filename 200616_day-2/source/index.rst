@@ -1,15 +1,18 @@
 Git 講習会
 ================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+はじめに
+--------------
 
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+便利なツール
+---------------
+
+
+
+
+便利なコマンド
+------------------
+
