@@ -32,6 +32,8 @@ https://www.sourcetreeapp.com/
 - visual codeをインストール
 https://azure.microsoft.com/ja-jp/products/visual-studio-code/
 
+---
+
 - Visual Studio Codeの日本語化
 1. Extension で検索ウィンドウに以下を入力
 Japanese Language Pack for Visual Studio Code
@@ -46,7 +48,7 @@ Japanese Language Pack for Visual Studio Code
 5.Visual Studio Codeを再起動
 以上
 
-
+---
 
 
 ○宿題：
