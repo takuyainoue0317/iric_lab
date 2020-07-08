@@ -1,0 +1,45 @@
+# run mode
+#data_type  0=grib2, 1=gsmaps
+run_mode:
+  data_type : 0
+
+#wgrib2 path
+wgrib_path : '../wgrib2/wgrib2.exe'
+
+gsmaps:
+  # ftp information
+  ftp_info:
+    url : 'hokusai.eorc.jaxa.jp'
+    user : 'rainmap'
+    ps : 'Niskur+1404'
+
+#select from follwoing
+# Detail can be confirmed at 
+# https://sharaku.eorc.jaxa.jp/GSMaP/faq/GSMaP_faq01.html
+# GSMaP_NRT : ./realtime_ver/v6/hourly/   2000/3/1 to present
+# GSMaP_Gauge_NRT : ./realtime_ver/v6/hourly_G/   2000/4/1 to present
+# GSMaP_MVK : ./standard/v7/hourly/       2014/3/1 to present
+# GSMaP_Gauge : ./standard/v6/hourly_G/       2014/3/1 to present
+  rain_data:
+    name : 'GSMaP_Gauge_NRT'
+
+  date_range:
+    start_date : '2020-07-07'
+    days : 1
+
+  #data directory
+  path:
+    gsmaps_dir : '../gsmaps/gsmaps_files'
+    tif_dir : '../gsmaps/tif_files'
+
+grib2:
+  path:
+    grib2_dir : '../grib2/grib2_files'
+    tif_dir : '../grib2/tif_files'
+
+
+
+
+
+  
+  
