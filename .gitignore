@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+river_model/Case1.cgn
